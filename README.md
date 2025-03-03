@@ -1,1 +1,2 @@
-# digital-writing-folio
+# Digital Writing Folio
+## Emily Vandenbroeck
