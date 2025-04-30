@@ -38,4 +38,16 @@
 
 #### What drives the reader's momentum throughout the piece?
 
-<p></p>
+<p>The movement through the stages of youth, prompted by a 'next stage' button appearing on the passage after the reader has explored all sub-passages of the life stage. </p>
+
+#### How does the digital feed into this momentum?
+
+<p>In the same way that a child cannot wait to grow up, they cannot move to the next life stage without first completing all childhood sub-passages. Nor is there a way to revisit the past, and so previous life stages will be inaccessible after the reader has progressed to the next stage.  </p>
+
+#### How does the literary and digital drive the momentum together with the piece's thematics?
+
+<p>*Read above.</p>
+
+#### Do you need to develop the story/narrative/concept further? How will you do this? By mapping? Writing it out?
+
+<p> I will create a map in which I will write out the content of each passage and where they lead.</p>
