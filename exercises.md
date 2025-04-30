@@ -20,14 +20,14 @@
 
 ### Week Eight - Reflection Post-Presentation
 
-# What are the themes and ideas your piece is exploring?
+#### What are the themes and ideas your piece is exploring?
 
-<p>_On Vanity_ explores the concept of vanity in a modern context. Through it, I will take the reader on a journey exploring the evolution of our relationship with vanity throughout our lives. The piece will act as an interrogation on what it means to reject vanity when it acts as currency, or if it is even possible when our society holds beauty at such high importance. </p>
+<p>_ On Vanity _ explores the concept of vanity in a modern context. Through it, I will take the reader on a journey exploring the evolution of our relationship with vanity throughout our lives. The piece will act as an interrogation on what it means to reject vanity when it acts as currency, or if it is even possible when our society holds beauty at such high importance. </p>
 
-# What literary genre or style are you drawing on? It is narrative drive or more poetic and associative? Or essayistic?
+#### What literary genre or style are you drawing on? It is narrative drive or more poetic and associative? Or essayistic?
 
-<p> _On Vanity_ is a personal essay/memoir with chronological structure split into childhood, adolescence, and adulthood, but sub-passages of each life stage which the reader can explore in any order they choose. </p>
+<p> _ On Vanity _ is a personal essay/memoir with chronological structure split into childhood, adolescence, and adulthood, but sub-passages of each life stage which the reader can explore in any order they choose. </p>
 
-# Succinctly, what is the story? Or, what do you want to express/communicate through this piece?
+#### Succinctly, what is the story? Or, what do you want to express/communicate through this piece?
 
 <p></p>
