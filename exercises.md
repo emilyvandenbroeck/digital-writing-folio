@@ -22,7 +22,7 @@
 
 #### What are the themes and ideas your piece is exploring?
 
-<p> *On Vanity* explores the concept of vanity in a modern context. Through it, I will take the reader on a journey exploring the evolution of our relationship with vanity throughout our lives. The piece will act as an interrogation on what it means to reject vanity when it acts as currency, or if it is even possible when our society holds beauty at such high importance. </p>
+<p> * On Vanity * explores the concept of vanity in a modern context. Through it, I will take the reader on a journey exploring the evolution of our relationship with vanity throughout our lives. The piece will act as an interrogation on what it means to reject vanity when it acts as currency, or if it is even possible when our society holds beauty at such high importance. </p>
 
 #### What literary genre or style are you drawing on? It is narrative drive or more poetic and associative? Or essayistic?
 
