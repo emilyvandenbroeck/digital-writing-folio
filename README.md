@@ -1,4 +1,5 @@
 # Digital Writing Folio
 ## Emily Vandenbroeck
 
-<exercises.md>
+- [Readings] (readings.md)
+- [Exercises] (exercises.md)
