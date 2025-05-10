@@ -1,8 +1,32 @@
 # Digital Writing
 ## Exercises
-### Week One, Tutorial Reflections
-<p>I am trying to romanticise this class. Coding is my to a claim to the identity ✨ Woman in S.T.E.M. ✨. I am ashamed of my Gen Z'edness. Maybe if I delete TikTok I will stop absorbing so much so-called 'brain rot'. Then again, that means I will simply spend more time scrolling Instagram Reels and I sometimes think that may be worse. Anyway, so far, it is kind of a lot. I don't know how I am going to code a whole piece of digital writing and make it look pretty and live up to my perfectionist standards. I suppose the code has to be perfect in order for it to actually work, and ChatGPT can help on that. The creative writing aspect of the experience however, has not got a perceivable perfection--creative works can always be improved upon (maybe) and there is no such thing as perfection (maybe? What about the Mona Lisa or some other iconic, timeless work). 
+### Week One
+<p>I am trying to romanticise this class. Coding is my to a claim to the identity Woman in S.T.E.M. I am ashamed of my Gen Z'edness. So far, it is kind of a lot. I don't know how I am going to code a whole piece of digital writing and make it look pretty and live up to my perfectionist standards. I suppose the code has to be perfect in order for it to actually work, and ChatGPT can help on that. The creative writing aspect of the experience however, has not got a perceivable perfection--creative works can always be improved upon (maybe) and there is no such thing as perfection (maybe? What about the Mona Lisa or some other iconic, timeless work).
 </p>
+
+#### What do you think digital writing is?
+
+<p>Digital writing creative writing that takes a digital form. It is seperate from that of an e-book in the sense that the experience of this writing cannot be replicated on paper.</p>
+
+#### What do you expect from the digital writing lab?
+
+<p>I expect that by the end of the unit, I will have a comprehensive understanding of basic coding and the functions it entails. I also hope that this will expand my writing practice.</p>
+
+#### What dypes of writing do you do?
+
+<p>In the majority, I write creative non-fiction pieces; memoir and personal essays in particular. If I do write fiction, it will be heavily inspired by my own life; autofiction.</p>
+
+#### What tools (or techniques) do you use to write?
+
+<p>I am on and off with journalling/note-taking. I like to use a journal as an archive of observations and experiences to use later for my writing. For a piece I have been working on, called over my heart, I have used a collation of journal entries to explore the themes of love, illness, and death. </p>
+
+#### Why do you use these tools (or techniques)?
+
+<p>The practice of journalling/note-taking allows me to record things with true accuracy. Memory is unreliable, often mistaking the order of events, missing details, or (temporarily, until reminded) erasing a memory completely. Honesty is, to me, my absolute favourite part about writing by others, and I wish to write with honesty always, even when it is difficult or shameful. Journalling/note-taking allows me to revisit the past, and emobdy once again, whatever I was feeling in that period of time.</p>
+
+#### How do these tools shape the way you write?
+
+<p>In a way, I find that this technique both constrains and facilitate my writing. It acts as a constraint in the sense that, in a non-fiction piece, I cannot lie or alter the events. It facilitates me more though, because it provides to me a plethora of writing content. (In a perhaps unhealthy way, I went through a period of my life in which I made decisions based on the motto "do it for the plot". It caused a lot more emotional and social hardship than it was worth.)</p>
 
 ### Week Three, Tutorial Reflections
 
