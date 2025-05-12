@@ -94,6 +94,14 @@
 
 <p>See readings</p>
 
+### Week Six
+
+#### Toward Assessment Two
+
+##### What is emerging for you in terms of your own piece toward Assessment Two and Three?
+
+<p>I am considering the concept of vanity as a topic for exploration through assessment three. </p>
+
 ### Week Six - 2024 Students' Works, Reflection
 
 <p>Out of the three students works we looked at today--Snow Season, Stay Strong, and House on the Hill--I would say that the first two are those which align most with my practice as a writer, and inspire what I have in mind for my final project. Both projects were made on twine, however the two students, particularly Tanna, who authored Snow Season, utilise Twine in a way that sets it apart from Twine's distinct appearance. Snow Season features photographs in the background of each screen that the reader interacts with, and the text is formatted on the page in a way that is non-conventional--the sentences fall down the page, in a poetic fashion, and certain words are coloured to indicate their function as click-able, bringing the reader to the next 'page' of the story being told.  </p>
