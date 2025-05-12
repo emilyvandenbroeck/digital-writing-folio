@@ -62,6 +62,38 @@
 
 <p>I can't say that there has been a shift in the way that I read e-lit, because I didn't read it in the first place. </p>
 
+#### Questions
+
+##### What is an algorithm? What is a constaint?
+
+<p>An algorithm is a function that uses data to either randomly, or, as directed by code, intentionally present information to the reader or consumer. A constraint limits the possiblities of something like an algorithm, blocking various paths or functions from the reader or consumer.</p>
+
+##### Can you think of ways you might already be using these in your writing?
+
+<p>No, I think that my writing is constantly evolving.</p>
+
+##### Why were Oupilo writers so interested in the intersection of maths and literature?
+
+<p>The Oupilo writers were looking for a way in which they could perfect the composition of literature using mathematics.</p>
+
+##### How does algorithmic writing make us think differently about authorship?
+
+<p>It challenges the concept of writing being done in one particular way--can a writer claim authorship if an algorithm aranges their words for them?</p>
+
+#### Exercises
+
+##### Dadaist Poem:
+
+<p>https://emilyvandenbroeck.github.io/dadaist-poem/</p>
+
+### Week Four
+
+<p>Assessment One</p>
+
+### Week Five
+
+<p>See readings</p>
+
 ### Week Six - 2024 Students' Works, Reflection
 
 <p>Out of the three students works we looked at today--Snow Season, Stay Strong, and House on the Hill--I would say that the first two are those which align most with my practice as a writer, and inspire what I have in mind for my final project. Both projects were made on twine, however the two students, particularly Tanna, who authored Snow Season, utilise Twine in a way that sets it apart from Twine's distinct appearance. Snow Season features photographs in the background of each screen that the reader interacts with, and the text is formatted on the page in a way that is non-conventional--the sentences fall down the page, in a poetic fashion, and certain words are coloured to indicate their function as click-able, bringing the reader to the next 'page' of the story being told.  </p>
