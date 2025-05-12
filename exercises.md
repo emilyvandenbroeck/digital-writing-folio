@@ -38,13 +38,29 @@
 
 ### Week Three, Tutorial Reflections
 
+#### In regard to Nick Monfort poem remix:
+
+#### What aspectes of the remix are the same?
+
+<p>There a words taht repeat, at times, very close the it's last mention, but this could be easily solved by adding more words to the algorithm.</p>
+
+#### What aspects are different?
+
+<p>The content of my poem is very different, as I tried to construct a narrative about academics/writers/researchers.</p>
+
+#### Is the remix successful (why or why not)?
+
+<p>I wouldn't say that this is a successful remix, as some of the nouns indicating place are not properly written out (e.g. coffee should be coffee shop or cafe). This means that at points, the poem does not make sense. I also need to add more words into the algorithm to increase the possible variations of text.</p>
+
+#### Reflection:
+
 #### How do you feel about coding now versus how you felt going into this in Week 1?
 
-<p>I feel that coding is kind of tricky. I felt that way in week one too. I have respect for people who build whole entire websites because this is crazy. I don't know maybe I am okay. I think I can do this.</p>
+<p>Coding is a really difficult feat--in week one, I really doubted my choice because how was I supposed to create a website from scratch! I feel now that I could do it, with the help of maybe coding forums and ChatGPT.</p>
 
 #### Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 
-<p>I never read e-lit in the first place. I cannot fathom how anyone can code a whole entire website. It must take an eternity for people to do such a thing. This is not funny.</p>
+<p>I can't say that there has been a shift in the way that I read e-lit, because I didn't read it in the first place. </p>
 
 ### Week Six - 2024 Students' Works, Reflection
 
