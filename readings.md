@@ -48,3 +48,31 @@ The electronic poem "The Gathering Cloud"
 The hypertext fiction "First Draft of the Revolution"
 The interactive fiction work "Shade"
 "Shade" is much more difficult to interact with so do read the "How to play IF" (link in the top right corner of "Shade") and look at the "Play IF card".
+
+### Week Three
+
+#### What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read? 
+
+<p>I pay attention mostly to the words that appear on each screen, but with works like 'Gathering Cloud', my reading will often be distracted by images moving across the screen.</p>
+
+#### How are those elements meaningful?
+
+<p>The images have correspondence to the text that is presented to the reader, and text colour is chosen with purpose. The way that text appears on the page and whether it is standard (left aligned, moving down the page) or random (text boxes in different positions), help to create an atmosphere within the piece, or a sense of disorientation.</p>
+
+### Week Three
+
+#### What is an algorithm? What is a constaint?
+
+<p>An algorithm is a function that uses data to either randomly, or, as directed by code, intentionally present information to the reader or consumer. A constraint limits the possiblities of something like an algorithm, blocking various paths or functions from the reader or consumer.</p>
+
+#### Can you think of ways you might already be using these in your writing?
+
+<p>No, I think that my writing is constantly evolving.</p>
+
+#### Why were Oupilo writers so interested in the intersection of maths and literature?
+
+<p>The Oupilo writers were looking for a way in which they could perfect the composition of literature using mathematics.</p>
+
+#### How does algorithmic writing make us think differently about authorship?
+
+<p>poee</p>
