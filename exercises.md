@@ -144,7 +144,7 @@
 
 #### What were your expectations coming into to the class and what have you learnt?
 
-<p>I don't know what I had expected, but I didn't think it would be as challenging as it has been. Coding through Glitch was a huge challenge which we jumped straight into before going into Twine, which may have been easier because it is, or because we already had some background knowledge to coding. I've learnt coding.</p>
+<p>I don't know what I had expected, maybe something easy like Squarespace or Wix, but I didn't think it would be as challenging as it has been. Coding through Glitch was a huge challenge which we jumped straight into before going into Twine, which may have been easier because it is, or because we already had some background knowledge to coding. I've learnt coding.</p>
 
 #### How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was. 
 
