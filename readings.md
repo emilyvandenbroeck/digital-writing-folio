@@ -61,18 +61,36 @@ The interactive fiction work "Shade"
 
 ### Week Three
 
-#### What is an algorithm? What is a constaint?
+#### Questions
+
+##### What is an algorithm? What is a constaint?
 
 <p>An algorithm is a function that uses data to either randomly, or, as directed by code, intentionally present information to the reader or consumer. A constraint limits the possiblities of something like an algorithm, blocking various paths or functions from the reader or consumer.</p>
 
-#### Can you think of ways you might already be using these in your writing?
+##### Can you think of ways you might already be using these in your writing?
 
 <p>No, I think that my writing is constantly evolving.</p>
 
-#### Why were Oupilo writers so interested in the intersection of maths and literature?
+##### Why were Oupilo writers so interested in the intersection of maths and literature?
 
 <p>The Oupilo writers were looking for a way in which they could perfect the composition of literature using mathematics.</p>
 
-#### How does algorithmic writing make us think differently about authorship?
+##### How does algorithmic writing make us think differently about authorship?
 
-<p>poee</p>
+<p>It challenges the concept of writing being done in one particular way--can a writer claim authorship if an algorithm aranges their words for them?</p>
+
+#### Exercises
+
+##### Dadaist Poem:
+
+<p>https://emilyvandenbroeck.github.io/dadaist-poem/</p>
+
+### Week Four
+
+<p>Assessment One</p>
+
+### Week Five
+
+<p>See readings.</p>
+
+
