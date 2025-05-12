@@ -139,3 +139,17 @@
 #### Do you need to develop the story/narrative/concept further? How will you do this? By mapping? Writing it out?
 
 <p> I will create a map in which I will write out the content of each passage and where they lead.</p>
+
+### Week Ten
+
+#### What were your expectations coming into to the class and what have you learnt?
+
+<p>I don't know what I had expected, but I didn't think it would be as challenging as it has been. Coding through Glitch was a huge challenge which we jumped straight into before going into Twine, which may have been easier because it is, or because we already had some background knowledge to coding. I've learnt coding.</p>
+
+#### How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was. 
+
+<p>This class has just re-affirmed my passion for writing creative non-fiction--and probably intensified it too. The ways in which we can experiment and play with format and other media opens up a whole new world of possibility for all writing genres.</p>
+
+#### What particular aspects of code-based writing and E-lit might inform your practice from here on? 
+
+<p>I don't plan on taking my new digital writing skills into my practice from here on, however I feel that a barrier has dissolved, and now my options are less restricted in terms of format for my writing.</p>
