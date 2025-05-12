@@ -2,6 +2,7 @@
 ## Exercises
 
 ### Week One
+
 <p>I am trying to romanticise this class. Coding is my to a claim to the identity Woman in S.T.E.M. I am ashamed of my Gen Z'edness. So far, it is kind of a lot. I don't know how I am going to code a whole piece of digital writing and make it look pretty and live up to my perfectionist standards. I suppose the code has to be perfect in order for it to actually work, and ChatGPT can help on that. The creative writing aspect of the experience however, has not got a perceivable perfection--creative works can always be improved upon (maybe) and there is no such thing as perfection (maybe? What about the Mona Lisa or some other iconic, timeless work).
 </p>
 
@@ -28,6 +29,12 @@
 #### How do these tools shape the way you write?
 
 <p>In a way, I find that this technique both constrains and facilitate my writing. It acts as a constraint in the sense that, in a non-fiction piece, I cannot lie or alter the events. It facilitates me more though, because it provides to me a plethora of writing content. (In a perhaps unhealthy way, I went through a period of my life in which I made decisions based on the motto "do it for the plot". It caused a lot more emotional and social hardship than it was worth.)</p>
+
+### Week Two
+
+#### Digital Writing Playground:
+
+<p>https://my-last-bit-of-sanity-n5qx.vercel.app/</p>
 
 ### Week Three, Tutorial Reflections
 
