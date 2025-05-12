@@ -59,4 +59,8 @@ The interactive fiction work "Shade"
 
 <p>The images have correspondence to the text that is presented to the reader, and text colour is chosen with purpose. The way that text appears on the page and whether it is standard (left aligned, moving down the page) or random (text boxes in different positions), help to create an atmosphere within the piece, or a sense of disorientation.</p>
 
+### Week Five
 
+#### What do you think of Aarseth's concept? Explain how it offers an alternative to conventional ideas of narrative and the role of reader and writer?
+
+<p>I think that Aarseth's concept is focused on how hypertext can give control to the reader in regards to pace, or take that away, as in the work 'Hegirascope', in which it "does not allow for contemplative reading" (p. 6).</p>
