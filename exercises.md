@@ -92,15 +92,25 @@
 
 ### Week Five
 
-<p>See readings</p>
-
-### Week Six
-
 #### Toward Assessment Two
 
 ##### What is emerging for you in terms of your own piece toward Assessment Two and Three?
 
-<p>I am considering the concept of vanity as a topic for exploration through assessment three. </p>
+<p>I am considering the concept of vanity as a topic for exploration through assessment three. My vision includes a vanity, on which certain areas are clickable and bring up varying musings on vanity.</p>
+
+##### What platform and technology does it require?
+
+<p>The piece will be created using Twine, relying heavily on an image map.</p>
+
+##### Do you know already if you can make it?
+
+<p>I have been successful in inputing images into my twine projects, but have not yet tried to create an image map.</p>
+
+##### What else do you need to learn in order to execute your vision for this piece?
+
+<p>How to create and input a fully functioning image map, which I will do using the resources on the class GitHub page, and ChatGPT for any issues that arise with my code.</p>
+
+##### Miro brainstorm: https://miro.com/app/board/uXjVIBrOtp8=/
 
 ### Week Six - 2024 Students' Works, Reflection
 
