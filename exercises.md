@@ -152,14 +152,58 @@
 
 ### Week Ten
 
-#### What were your expectations coming into to the class and what have you learnt?
+#### Expectations
+
+##### What were your expectations coming into to the class and what have you learnt?
 
 <p>I don't know what I had expected, maybe something easy like Squarespace or Wix, but I didn't think it would be as challenging as it has been. Coding through Glitch was a huge challenge which we jumped straight into before going into Twine, which may have been easier because it is, or because we already had some background knowledge to coding. I've learnt coding.</p>
 
-#### How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was. 
+##### How has your creative writing practice developed? Are there new directions? Or perhaps it has confirmed something about your practice as it was. 
 
 <p>This class has just re-affirmed my passion for writing creative non-fiction--and probably intensified it too. The ways in which we can experiment and play with format and other media opens up a whole new world of possibility for all writing genres.</p>
 
-#### What particular aspects of code-based writing and E-lit might inform your practice from here on? 
+##### What particular aspects of code-based writing and E-lit might inform your practice from here on? 
 
 <p>I don't plan on taking my new digital writing skills into my practice from here on, however I feel that a barrier has dissolved, and now my options are less restricted in terms of format for my writing.</p>
+
+#### Reflections
+
+##### Why did you choose this studio?
+
+<p>I chose this studio because it aligned better with my goals as a writer than Comics or Writing off Script. </p>
+
+##### What knowledge did you possess of digital writing/interactive fiction prior to this studio?
+
+<p>Zero knowledge.</p>
+
+##### What were you excited about learning or furthering your knowledge on?
+
+<p>Learning to build a website, specifically, an author website.</p>
+
+##### What were you worried about when joining this studio?
+
+<p>The difficulty of coding, and what falls within the defintion of digital writing. </p>
+
+##### Were there any portions of the class that stood out to you?
+
+<p>Not in particular, I think everything we have learnt has been equally as useful, and expanded my development not only as a writer, but also as a professional. </p>
+
+##### Was there anything you were able to expand your prior knowledge on?
+
+<p>The extend of literature. I did not realise there was a whole world of digital writing out there. My idea of literature was confined to print and e-books. </p>
+
+##### What has inspired your final project?
+
+<p>Past students works, and the Electronic Literature Collection. Also, learning to what extent I am able to work with Twine as a platform for coding, and pushing against its boundary. </p>
+
+##### What knowledge from this studio are you using to create this final project?
+
+<p>Twine use and functions. e.g. image maps.</p>
+
+##### Is interactive fiction something that you will continue to do after this studio?
+
+<p>I do not believe so, although I find assurance in the fact that I have the knowledge and it is therefore an option. </p>
+
+##### Has learning about and experimenting with interactive fiction influenced how you approach writing as a whole?
+
+<p>No, not really. </p>
