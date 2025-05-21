@@ -3,3 +3,4 @@
 
 - [Readings](readings.md)
 - [Exercises](exercises.md)
+- [Author Site](https://emilyvandenbroeck.github.io/)
