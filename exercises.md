@@ -1,6 +1,15 @@
 # Digital Writing
 ## Exercises
 
+[Digital Writing Playground]https://my-last-bit-of-sanity-n5qx.vercel.app/
+
+Dadaist Poem:
+https://emilyvandenbroeck.github.io/dadaist-poem/
+
+Miro brainstorm: 
+https://miro.com/app/board/uXjVIBrOtp8=/
+
+
 ### Week One
 
 <p>As a person of relative youth, I was excited to have the opportunity to write on a digital platform of my own design. Now that I am here, I am questioning my choice. How will I learn this foreign language (code) in just twelve weeks, and submit a developed work up to my own high standards? There is a reason I never pursued visual arts after high school; I do not have the skill set to make my visions come alive for the eyes of others. Another question: what to write that will be suited to the digital platform, and, more precisely, complete in its digital format?!
