@@ -1,13 +1,11 @@
 # Digital Writing
 ## Exercises
 
-[Digital Writing Playground]https://my-last-bit-of-sanity-n5qx.vercel.app/
+[Digital Writing Playground](https://my-last-bit-of-sanity-n5qx.vercel.app/)
 
-Dadaist Poem:
-https://emilyvandenbroeck.github.io/dadaist-poem/
+[Dadaist Poem](https://emilyvandenbroeck.github.io/dadaist-poem/)
 
-Miro brainstorm: 
-https://miro.com/app/board/uXjVIBrOtp8=/
+[Miro brainstorm](https://miro.com/app/board/uXjVIBrOtp8=/)
 
 
 ### Week One
