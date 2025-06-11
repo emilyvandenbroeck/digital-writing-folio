@@ -1,9 +1,9 @@
-# Digital Writing
+![image](https://github.com/user-attachments/assets/d093b6e9-8785-4c1b-825f-6ba0facb1896)![image](https://github.com/user-attachments/assets/5bca4ea2-adfd-427b-8a1c-cf17a8ccea89)# Digital Writing
 ## Exercises
 
 ### Week One
 
-<p>I am trying to romanticise this class. Coding is my to a claim to the identity Woman in S.T.E.M. I am ashamed of my Gen Z'edness. So far, it is kind of a lot. I don't know how I am going to code a whole piece of digital writing and make it look pretty and live up to my perfectionist standards. I suppose the code has to be perfect in order for it to actually work, and ChatGPT can help on that. The creative writing aspect of the experience however, has not got a perceivable perfection--creative works can always be improved upon (maybe) and there is no such thing as perfection (maybe? What about the Mona Lisa or some other iconic, timeless work).
+<p>As a person of relative youth, I was excited to have the opportunity to write on a digital platform of my own design. Now that I am here, I am questioning my choice. How will I learn this foreign language (code) in just twelve weeks, and submit a developed work up to my own high standards? There is a reason I never pursued visual arts after high school; I do not have the skill set to make my visions come alive for the eyes of others. Another question: what to write that will be suited to the digital platform, and, more precisely, complete in its digital format?!
 </p>
 
 #### What do you think digital writing is?
@@ -12,29 +12,23 @@
 
 #### What do you expect from the digital writing lab?
 
-<p>I expect that by the end of the unit, I will have a comprehensive understanding of basic coding and the functions it entails. I also hope that this will expand my writing practice.</p>
+<p>I expect that by the end of the unit, I will have a comprehensive understanding of basic coding and the functions it entails. I, in turn, hope that this will expand my writing practice.!</p>
 
 #### What dypes of writing do you do?
 
-<p>In the majority, I write creative non-fiction pieces; memoir and personal essays in particular. If I do write fiction, it will be heavily inspired by my own life; autofiction.</p>
+<p>In the majority, I write creative non-fiction pieces—memoir and personal essays. If I do write fiction, it will be heavily inspired by my own life. !</p>
 
 #### What tools (or techniques) do you use to write?
 
-<p>I am on and off with journalling/note-taking. I like to use a journal as an archive of observations and experiences to use later for my writing. For a piece I have been working on, called over my heart, I have used a collation of journal entries to explore the themes of love, illness, and death. </p>
+<p>I am on and off with journalling/notetaking. I like to use a journal as an archive of observations and experiences to use later for my writing. For a piece I have been working on, called Over My Heart, I have used a collation of journal entries to explore the themes of love, illness, and death.</p>
 
 #### Why do you use these tools (or techniques)?
 
-<p>The practice of journalling/note-taking allows me to record things with true accuracy. Memory is unreliable, often mistaking the order of events, missing details, or (temporarily, until reminded) erasing a memory completely. Honesty is, to me, my absolute favourite part about writing by others, and I wish to write with honesty always, even when it is difficult or shameful. Journalling/note-taking allows me to revisit the past, and emobdy once again, whatever I was feeling in that period of time.</p>
+<p>The practice of journalling/notetaking allows me to record things with true accuracy. Memory is unreliable, often mistaking the order of events, missing details, or (temporarily, until reminded) erasing a memory completely. Honesty is, to me, my absolute favourite part about writing by others, and I wish to replicate this in my own writing, even when it is difficult or shameful. Journalling/notetaking allows me to revisit the past—to embody once again—whatever I was feeling in that period of time.</p>
 
 #### How do these tools shape the way you write?
 
 <p>In a way, I find that this technique both constrains and facilitate my writing. It acts as a constraint in the sense that, in a non-fiction piece, I cannot lie or alter the events. It facilitates me more though, because it provides to me a plethora of writing content. (In a perhaps unhealthy way, I went through a period of my life in which I made decisions based on the motto "do it for the plot". It caused a lot more emotional and social hardship than it was worth.)</p>
-
-### Week Two
-
-#### Digital Writing Playground:
-
-<p>https://my-last-bit-of-sanity-n5qx.vercel.app/</p>
 
 ### Week Three, Tutorial Reflections
 
@@ -56,11 +50,11 @@
 
 #### How do you feel about coding now versus how you felt going into this in Week 1?
 
-<p>Coding is a really difficult feat--in week one, I really doubted my choice because how was I supposed to create a website from scratch! I feel now that I could do it, with the help of maybe coding forums and ChatGPT.</p>
+<p>Coding is a difficult feat. In week one, I really doubted my choice because I had no prior knowledge to the language of coding, and I was unsure how I could learn it within only 12 weeks. I feel now that I could do it, with the help of time, coding forums, and ChatGPT.</p>
 
 #### Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
 
-<p>I can't say that there has been a shift in the way that I read e-lit, because I didn't read it in the first place. </p>
+<p>I never read e-literature in the first place, however, I now feel that there is a whole form of literature that has existed beyond my awareness, that I haven’t considered as something I could draw inspiration from.</p>
 
 #### Questions
 
@@ -79,12 +73,6 @@
 ##### How does algorithmic writing make us think differently about authorship?
 
 <p>It challenges the concept of writing being done in one particular way--can a writer claim authorship if an algorithm aranges their words for them?</p>
-
-#### Exercises
-
-##### Dadaist Poem:
-
-<p>https://emilyvandenbroeck.github.io/dadaist-poem/</p>
 
 ### Week Four
 
@@ -149,6 +137,15 @@
 #### Do you need to develop the story/narrative/concept further? How will you do this? By mapping? Writing it out?
 
 <p> I will create a map in which I will write out the content of each passage and where they lead.</p>
+
+### Week Nine
+
+<p>Following the presentation of my proposal, I received feedback from peers on how I can visually intensify my final work throughout the life stages, for example, using a background image underneath an image map to create a sense of clutter or overwhelm with the pressures of vanity. From my teachers, there was the concern with lack of clarity with how the work itself would present itself conceptually through writing, i.e. essayistic, or personal. By incorporating my ideas on vanity, specifically that of vanity related to possession, I will be looking more into my own, personal experiences of vanity and comparison, and how this has intensified throughout my life—something I am sure readers will relate to. 
+1.	Complete a draft of the creative writing to be implemented in the digital work. 14/5
+2.	Create visuals, i.e. image maps, background images, etc. 25/5
+3.	Code image maps and interactive elements 30/5
+4.	Edit and implement creative writing by 6/6
+</p>
 
 ### Week Ten
 
