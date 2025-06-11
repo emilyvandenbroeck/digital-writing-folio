@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d093b6e9-8785-4c1b-825f-6ba0facb1896)![image](https://github.com/user-attachments/assets/5bca4ea2-adfd-427b-8a1c-cf17a8ccea89)# Digital Writing
+# Digital Writing
 ## Exercises
 
 ### Week One
